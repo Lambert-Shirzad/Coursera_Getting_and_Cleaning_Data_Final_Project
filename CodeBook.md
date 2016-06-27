@@ -1,5 +1,5 @@
 #Getting and Cleaning Data - Course Project
-This is the CodeBook file of the course project for the Getting and Cleaning Data Coursera course, done by **Navid Shirzad**. 
+This is the CodeBook file of the course project for the Getting and Cleaning Data Coursera course, done by **`Navid Shirzad`**. 
 This md file describes the variables, the data, and any transformations or work that was performed to clean up the data. The clean data is presented in `tidy.txt`.
 
 ## Identifiers
